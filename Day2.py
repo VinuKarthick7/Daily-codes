@@ -1,6 +1,6 @@
 from datetime import datetime
 
-log_file = "vinu.txt"
+log_file = "day2.txt"
 
 def log_message(message):
     with open(log_file, "a") as file:
